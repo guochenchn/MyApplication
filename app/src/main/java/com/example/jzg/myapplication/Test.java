@@ -8,4 +8,7 @@ package com.example.jzg.myapplication;
  */
 public class Test {
     //测试提交一个文件
+    public static void main(String[] args) {
+
+    }
 }
